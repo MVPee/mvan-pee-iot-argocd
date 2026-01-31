@@ -9,6 +9,7 @@ Inception-of-Things (IoT) - K3d and Argo CD
 
 - `deployment.yaml` - Application Deployment
 - `service.yaml` - Application Service
+- `ingress.yaml` - Ingress configuration
 
 ## Application
 
