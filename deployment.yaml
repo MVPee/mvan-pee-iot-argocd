@@ -14,11 +14,11 @@ spec:
     metadata:
       labels:
         app: iot-app
-        version: v1
+        version: v2
     spec:
       containers:
       - name: iot-app
-        image: mvpee/iot-app:v1
+        image: mvpee/iot-app:v2
         imagePullPolicy: Always
         ports:
         - containerPort: 8888
